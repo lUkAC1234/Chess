@@ -1,0 +1,11 @@
+$background-color: #0d0d0d;
+$basic-white: #ffffff;
+$link-underline: #FEC43E;
+$black-font-color: #1D1D1B;
+
+:root {
+    --background-color: #{$background-color};
+    --basic-white: #{$basic-white};
+    --link-underline: #{$link-underline};
+    --black-font-color: #{$black-font-color};
+}
